@@ -135,3 +135,13 @@ venv.bak/
 
 # Backups
 *~
+
+# KB data
+benchmarks/KB/
+
+# PyCharm files
+.idea/ 
+
+# DS Stores
+benchmarks/.DS_Store
+.DS_Store
